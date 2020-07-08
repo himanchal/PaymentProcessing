@@ -1,0 +1,11 @@
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/bin/Debug/netcoreapp3.1/PaymentProcessing
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/bin/Debug/netcoreapp3.1/PaymentProcessing.deps.json
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/bin/Debug/netcoreapp3.1/PaymentProcessing.runtimeconfig.json
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/bin/Debug/netcoreapp3.1/PaymentProcessing.runtimeconfig.dev.json
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/bin/Debug/netcoreapp3.1/PaymentProcessing.dll
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/bin/Debug/netcoreapp3.1/PaymentProcessing.pdb
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/obj/Debug/netcoreapp3.1/PaymentProcessing.csprojAssemblyReference.cache
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/obj/Debug/netcoreapp3.1/PaymentProcessing.AssemblyInfoInputs.cache
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/obj/Debug/netcoreapp3.1/PaymentProcessing.AssemblyInfo.cs
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/obj/Debug/netcoreapp3.1/PaymentProcessing.dll
+/Users/hsingh/workspace/PaymentProcessing/PaymentProcessing/obj/Debug/netcoreapp3.1/PaymentProcessing.pdb
