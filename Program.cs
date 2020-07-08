@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PaymentProcessing
 {
@@ -16,7 +12,7 @@ namespace PaymentProcessing
                 Id = 2001,
                 Email = "user1@gmail.com",
                 Name = "user1",
-                MembershipType =  MembershipType.Plantinum
+                MembershipType =  MembershipType.Gold
             };
             var cart = new Cart() //building the cart manually 
             {
