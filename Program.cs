@@ -6,7 +6,7 @@ namespace PaymentProcessing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Maersk Order processing system");
+            Console.WriteLine("Welcome to Order processing system");
             var user = new User() //based on the user login user object would be instantiated
             {
                 Id = 2001,
