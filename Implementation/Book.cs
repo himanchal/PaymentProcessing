@@ -11,6 +11,7 @@ namespace PaymentProcessing
         public override bool ProcessPayment(IProduct product, User user)
         {
             Console.WriteLine("Book: generate a commission payment to the royalty department");
+            Console.WriteLine("Generate a commision payment to the agent");
             return true;
         }
     }

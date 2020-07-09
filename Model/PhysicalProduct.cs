@@ -12,6 +12,7 @@ namespace PaymentProcessing
         public virtual bool ProcessPayment(IProduct product, User user)
         {
             Console.WriteLine("physical product: generate a packing slip for shipping");
+            Console.WriteLine("Generate a commision payment to the agent");
             return true;
         }
     }
